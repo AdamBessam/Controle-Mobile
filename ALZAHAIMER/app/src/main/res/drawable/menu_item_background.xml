@@ -1,0 +1,7 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" tools:ignore="MissingDefaultResource">
+    <!-- State when the menu item is clicked -->
+    <item android:state_pressed="true" android:drawable="@color/blue" />
+
+    <!-- Default state -->
+    <item android:drawable="@color/blue" />
+</selector>

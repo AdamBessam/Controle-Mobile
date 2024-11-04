@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#9868d3</color>
+    <color name="purple_light">#BB86FC</color>
+    <color name="lightPurple">#f0e9fa</color>
+    <color name="darkPurple">#6735a4</color>
+    <color name="grey">#acacac</color>
+    <color name="gray">#808080</color>
+    <color name="primaryColor">#1976D2</color>
+    <color name="status_in_progress">#1976D2</color>
+    <color name="status_completed">#43A047</color>
+    <color name="status_pending">#FFA000</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="primaryBlue">#1E88E5</color> <!-- Vibrant blue -->
+    <color name="primaryBlueLight">#BBDEFB</color> <!-- Lighter blue -->
+    <color name="primaryDarkBlue">#1565C0</color> <!-- Dark blue for status indicator -->
+    <color name="textPrimary">#E3F2FD</color> <!-- Light blue for primary text -->
+    <color name="textSecondary">#90CAF9</color> <!-- Lighter shade for secondary text -->
+    <color name="cardBackground">#F5F5F5</color> <!-- Neutral background for contrast -->
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="circle_background">#E3F2FD</color>
+
+    <color name="purple_500">#6200EE</color> <!-- Example Hex Code for Purple 500 -->
+        <color name="purple_700">#3700B3</color> <!-- Example Hex Code for Purple 700 -->
+        <color name="purple_200">#BB86FC</color> <!-- Example Hex Code for Purple 200 -->
+        <color name="teal_200">#03DAC5</color> <!-- Example Hex Code for Teal 200 -->
+        <color name="teal_700">#018786</color> <!-- Example Hex Code for Teal 700 -->
+
+    <color name="blue">#2196F3</color> <!-- Define a blue color -->
+    <color name="light_blue">#BBDEFB</color> <!-- Optional light blue for backgrounds -->
+    <color name="dark_blue">#1976D2</color>
+
+</resources>

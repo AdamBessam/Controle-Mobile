@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/animator/status_indicator_state_list_animator.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Quand la vue est pressée -->
+    <item android:state_pressed="true">
+        <objectAnimator
+            android:propertyName="scaleX"
+            android:duration="200"
+            android:valueFrom="1.0"
+            android:valueTo="1.5"
+            android:valueType="floatType"
+            android:interpolator="@android:interpolator/fast_out_slow_in"/>
+    </item>
+
+    <!-- Quand la vue revient à son état normal -->
+    <item>
+        <objectAnimator
+            android:propertyName="scaleX"
+            android:duration="200"
+            android:valueFrom="1.5"
+            android:valueTo="1.0"
+            android:valueType="floatType"
+            android:interpolator="@android:interpolator/fast_out_slow_in"/>
+    </item>
+</selector>
